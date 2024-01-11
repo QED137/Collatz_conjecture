@@ -7,6 +7,7 @@ This project is an exploration of the intriguing Collatz Conjecture, a problem i
 
 ## What is the Collatz Conjecture?
 The Collatz Conjecture asserts that no matter which positive integer you start with, this sequence will always eventually reach 1. Once it reaches 1, the sequence will repeat the cycle 4, 2, 1 indefinitely.
+
 $$
 f(n) = 
 \begin{cases} 
